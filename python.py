@@ -5,7 +5,7 @@ print("the reversed list is", list1)
 
 list2 = [14, 25, 235, 41, 444, 156, 23, 10]
 list2.sort()
-print("the sorted list is", ;list2)
+print("the sorted list is", list2)
 
 list3 = []
 list3 = list1.copy()
